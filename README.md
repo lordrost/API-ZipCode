@@ -1,8 +1,13 @@
-# API-ZipCode
+# Distance Between Zip Codes (EN)
 
 
-Enter first and second zipcode. 
-PHP function will count distance between them using API from http://www.zipcodeapi.com
+ * Currently Supported and tested within United States ZIP codes
 
-You can use function, but you need to create your own API key on the mentioned website above. 
+This script allows you to quickly and easily figure out the distance between zip codes.
 
+How that works:
+ - Enter First and Second ZipCode. 
+ - Script will return the distance between entered zip codes or error if Zip code not found.
+ 
+
+* I'm using API from http://www.zipcodeapi.com
